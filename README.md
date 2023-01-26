@@ -1,1 +1,1 @@
-# restAssured tested using local server and mock apis
+# restAssured using local server and mock apis
