@@ -2,15 +2,15 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-24T23:20:49 IST" name="Default suite" finished-at="2023-01-24T23:20:54 IST" duration-ms="4453">
+  <suite started-at="2023-01-25T22:29:55 IST" name="Default suite" finished-at="2023-01-25T22:29:57 IST" duration-ms="2563">
     <groups>
     </groups>
-    <test started-at="2023-01-24T23:20:49 IST" name="Default test" finished-at="2023-01-24T23:20:54 IST" duration-ms="4453">
+    <test started-at="2023-01-25T22:29:55 IST" name="Default test" finished-at="2023-01-25T22:29:57 IST" duration-ms="2563">
       <class name="restAssuredTest.Tests_Get">
-        <test-method signature="test_get2()[pri:0, instance:restAssuredTest.Tests_Get@543588e6]" started-at="2023-01-24T23:20:49 IST" name="test_get2" finished-at="2023-01-24T23:20:54 IST" duration-ms="4368" status="PASS">
+        <test-method signature="test_get1()[pri:0, instance:restAssuredTest.Tests_Get@543588e6]" started-at="2023-01-25T22:29:55 IST" name="test_get1" finished-at="2023-01-25T22:29:57 IST" duration-ms="2462" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_get2 -->
+        </test-method> <!-- test_get1 -->
       </class> <!-- restAssuredTest.Tests_Get -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

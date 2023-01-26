@@ -23,6 +23,7 @@ public class Tests_Get {
 				.body("data.first_name", hasItems("Michael", "Tobias"));
 
 		System.out.println(status.extract().response());
+		System.out.println(status);
 
 	}
 
